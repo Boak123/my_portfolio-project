@@ -1,12 +1,20 @@
-PORTFOLIO WEBSITE
+# Portfolio Website
 
-Is a  organize, online space that showcase your best work. It can be use to share your work with press, potential collaborators or employers.
+This is a portfolio website showcasing my skills, projects, and contact information. It is built using HTML, CSS, and JavaScript.
 
-Technology used 
+## Features
 
-HTML
-CSS
-Javascript
+- **About Me:** Provides an introduction to myself, my background, and my interests.
+- **Experience:** Highlights my professional experience, skills, and qualifications.
+- **Projects:** Showcases the projects I have worked on, including descriptions and links to GitHub repositories or live demos.
+- **Contact:** Provides contact information for reaching out to me.
+
+## Technologies Used
+
+- **HTML:** Used for structuring the content of the website.
+- **CSS:** Used for styling and layout design.
+- **JavaScript:** Used for interactivity and dynamic content.
+
 
 
 ![alt text](image.png)

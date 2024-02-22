@@ -17,4 +17,7 @@ This is a portfolio website showcasing my skills, projects, and contact informat
 
 
 
+
+
+## Preview
 ![alt text](image.png)

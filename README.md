@@ -16,6 +16,7 @@ This is a portfolio website showcasing my skills, projects, and contact informat
 - **JavaScript:** Used for interactivity and dynamic content.
 
 
+## Poject description (https://docs.google.com/presentation/d/1CxacwDeAQl2OyhCshtHQ2BGvyXI63v6fJnlkulmbTRo/edit#slide=id.p)
 
 
 
